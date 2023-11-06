@@ -1,7 +1,11 @@
 # Crud APIS with  Node Express and Mongodb 
 
 ## Add Books 
+
+    local URL
     http://localhost:4000/api/v1/addbook
+
+    PUBLIC URL
 
     Data Format : 
         {
@@ -13,17 +17,29 @@
 
 ## Get All Books 
    
-   http://localhost:4000/api/v1/getbooks
+    localhost url
+    http://localhost:4000/api/v1/getbooks
+
+    PUBLIC URL
+    https://crudapis.onrender.com/api/v1/getbooks
 
 
 ## Get Books By id
 
+    localhost URL
     http://localhost:4000/api/v1/getbookbyid/YOUR_BOOK_ID
+
+    PUBLIC URL
+    https://crudapis.onrender.com/api/v1/getbookbyid/YOUR_BOOK_ID
 
 
 ## Update Book
 
+    localhost URL
     http://localhost:4000/api/v1/updatebook/YOUR_BOOK_ID
+
+    PUBLIC URL
+    https://crudapis.onrender.com/api/v1/updatebook/YOUR_BOOK_ID
 
     data Format: 
         {
@@ -35,6 +51,10 @@
 
 ## Delete Book
 
+    localhost URL
     http://localhost:4000/api/v1/deletebook/YOUR_BOOK_ID
+
+    PUBLIC URL
+    https://crudapis.onrender.com/api/v1/deletebook/YOUR_BOOK_ID
 
 
