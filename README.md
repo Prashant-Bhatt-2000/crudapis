@@ -6,7 +6,7 @@
     http://localhost:4000/api/v1/addbook
 
     PUBLIC URL
-
+    https://crudapis.onrender.com/api/v1/addbok
     Data Format : 
         {
             "title" :"Horrid Henry",
